@@ -17,15 +17,18 @@ A project to build a current map of 绘本馆 --subscription children's librarie
 
 
 ### Week 2
-* code goal: figure out URL's to develp against.
-
-
+* divide up tasks?
+* code goal: figure out how to send a query to dianping
 
 ### Week 3
+* load query results into a data frame
+* figure out how to loop over a list of cities
 
 ### Week 4
+* work on compiling query results into a workable table
 
 ### Week 5
+* compile tables and prepare for analysis
 
 ### Week 6
 
