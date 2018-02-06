@@ -18,6 +18,8 @@ A project to build a current map of 绘本馆 --subscription children's librarie
 
 ### Week 2
 * worked on getting our Python environments to work
+* make sure you are installing packages into the right version of python!
+
 * divide up tasks?
 * code goal: figure out how to send a query to dianping
 
