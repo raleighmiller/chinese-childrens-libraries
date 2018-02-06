@@ -7,6 +7,7 @@ A project to build a current map of 绘本馆 --subscription children's librarie
 * Josue
 * JJ
 * Connie
+* Steven
 
 # Project Outline/Schedule
 ### Week 1
