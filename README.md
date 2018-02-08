@@ -1,6 +1,8 @@
 # chinese-childrens-libraries
 A project to build a current map of 绘本馆 --subscription children's libraries in China.
 
+file scrape.py is the current version of the code.
+
 # Project Contributors
 * Raleigh
 * Angela
