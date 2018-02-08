@@ -1,4 +1,4 @@
-# small test to open a page at Dianpint
+# small test to open a page at Dianping
 #import libraries
 #this works for Raleigh
 import urllib
