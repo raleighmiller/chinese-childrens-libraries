@@ -22,12 +22,12 @@ A project to build a current map of 绘本馆 --subscription children's librarie
 * make sure you are installing packages into the right version of python!
 * spoofed a web client and scraped a page from dianping.com
 
-### Week 3
-* code goal: figure out how to send a query to dianping 
-* code goal: figure out how to send a query to dianping and load query results into a data frame
+### Week 3 
+* code goal: figure out how to send a query to dianping
+* load query results into a data frame
 
 ### Week 4
-* divide up tasks?
+* format the results more carefully -- explore our data.
 * code goal: figure out how to loop over a list of cities
 * work on compiling query results into a workable table
 * how does dianping treat locations?  lat-long pairs or street addresses?
