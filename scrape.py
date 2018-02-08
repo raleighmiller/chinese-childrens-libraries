@@ -3,7 +3,7 @@
 #this works for Raleigh
 import urllib
 from bs4 import BeautifulSoup
-from urllib.Request import Request, urlopen
+from urllib.request import Request, urlopen
 
 #Getting around thinking we're a robot
 site = 'http://dianping.com'
