@@ -26,6 +26,7 @@ file scrape.py is the current version of the code.
 
 ### Week 3 
 * code goal: figure out how to send a query to dianping
+J-search-input is the element name of the keyword search bar.
 * load query results into a data frame
 
 ### Week 4
