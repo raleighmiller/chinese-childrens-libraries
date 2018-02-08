@@ -23,6 +23,7 @@ file scrape.py is the current version of the code.
 * worked on getting our Python environments to work
 * make sure you are installing packages into the right version of python!
 * spoofed a web client and scraped a page from dianping.com
+* we figured out that calling different URL's, calls different cities.  https://www.dianping.com/search/keyword/26/0_[string] #26 is a city code.  #1 = Shanghai #2 = Beijing #3 = Hangzhou
 
 ### Week 3 
 * code goal: figure out how to send a query to dianping
