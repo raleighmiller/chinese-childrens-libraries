@@ -29,6 +29,7 @@ file scrape.py is the current version of the code.
 * code goal: figure out how to send a query to dianping
 J-search-input is the element name of the keyword search bar.
 * load query results into a data frame
+* Connie looped over 200 cities.  Still needs to share the code!
 
 ### Week 4
 * format the results more carefully -- explore our data.
