@@ -20,7 +20,7 @@ for n in range(1,10):
             soup = BeautifulSoup(data, "html.parser")
             addr_list += soup.find_all('span',{'class':'addr'})
             
-    else:
+    if n>3 and n!=20 and n!=51 and n!=189 and n!=190 and n!=191:
         for page in range(1, 5):
             print ("Code: " + str(n) + " Current page: " + str(page))
 
